@@ -10,13 +10,15 @@
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **fullstack**
+-💻 **Computer Science Engineering Student**
 
-- 💬 Ask me about **FrontEnd, UI/UX**
+-**🚀 Web Developer | Full-Stack Learner | Tech Explorer**
+
+-**☕ Powered by coffee, bugs, and Google searches**
 
 - 📫 How to reach me **dharsansp254@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **Debugging is my cardio **
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
