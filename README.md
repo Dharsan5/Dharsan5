@@ -46,8 +46,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dharsan5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dharsan5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
