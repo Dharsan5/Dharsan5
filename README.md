@@ -32,8 +32,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dharsan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dharsan5&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Dharsan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharsan5&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -44,7 +43,5 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dharsan5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
