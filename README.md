@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm DHARSAN SP</h1>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Fullstack Developer</h3>
 
 -💻 **Computer Science Engineering Student**
 
